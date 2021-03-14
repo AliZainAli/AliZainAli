@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AliZainAli
+- 👋 Hi, I’m Ali Zain
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning React JS, PHP Laravel
 - 💞️ I’m looking to collaborate on ...
