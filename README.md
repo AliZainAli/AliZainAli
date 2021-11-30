@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning React JS, PHP Laravel
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... Email : ali.zain.eng@gmail.com
+- 📫 How to reach me ... Email : ali.zain.eng@gmail.com,
                          LinkedIn : https://www.linkedin.com/in/ali-zain-10502a135/
 
 <!---
