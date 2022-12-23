@@ -4,7 +4,7 @@
 - 🌱 I have 1 year of experience as a Laravel developer
 - 💞️ I’m looking to collaborate on Backend Development
 - 📫 How to reach me ... Email: ali.zain.eng@gmail.com,
-                         LinkedIn: https://www.linkedin.com/in/ali-zain-10502a135/
+                         LinkedIn: https://www.linkedin.com/in/ali-zain1/
 
 <!---
 AliZainAli/AliZainAli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
